@@ -55,6 +55,6 @@
         android:textAlignment="center"
         android:textColor="#124"
         android:textSize="22dp"
-        android:text="\n\n\n Thank You"
+        android:text="\n\n\n Thank You!"
         android:textStyle="italic"/>
 </LinearLayout>
